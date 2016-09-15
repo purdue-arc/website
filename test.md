@@ -1,8 +1,6 @@
----aaoeuaoeu
-layout: p ost
 ---
 layout: post
-title: Blogging Like a Hac
+title: AUVSI
 ---
 # Test
 ### Purdue AUVSI.
