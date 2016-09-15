@@ -2,8 +2,7 @@
 layout: post
 title: AUVSI
 ---
-# Test
-### Purdue AUVSI.
+### Purdue AUVSI
 Purdue AUVSI is an organization at Purdue University focused on the field of vehicular robotics.
 We aim to promote interdisciplinary cooperation among Purdue students through both social and technical projects and events.
 
