@@ -1,6 +1,6 @@
 ---
 layout: index2
-title: AUVSI
+title: Purdue AUVSI
 ---
 
 # Purdue AUVSI
