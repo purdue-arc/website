@@ -48,7 +48,7 @@ table {
 
 /* LAYOUT STYLES */
 body {
-	font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+	font-family: sans-serif;
 	font-size: 1em;
 	line-height: 1.5;
 	color: #6d6d6d;
@@ -57,6 +57,10 @@ body {
 
 a {
 	color: #1e5d88;
+	-webkit-transition: text-shadow .25s ease;
+	-moz-transition:    text-shadow .25s ease;
+	-o-transition:      text-shadow .25s ease;
+	transition:         text-shadow .25s ease;
 }
 a:hover {
 	color: #1e5d88;
@@ -328,6 +332,10 @@ footer {
 	font-size: 13px;
 	color: #aaa;
 	background: transparent url('../images/hr.png') 0 0 no-repeat;
+}
+
+footer img {
+	width: 45%;
 }
 
 footer a {
