@@ -16,6 +16,8 @@ Lead: [Kevin Sheridan](mailto:sheridak@purdue.edu)
 
 [![IARC video](http://www.aerialroboticscompetition.org/images/rotatingimages/1.png)](http://www.aerialroboticscompetition.org/images/video/mission7promo.mp4)
 
+---
+
 # Contact
 President: [Mitchell Lee](mailto:lee2141@purdue.edu)
 
