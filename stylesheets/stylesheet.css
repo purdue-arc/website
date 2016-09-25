@@ -69,11 +69,13 @@ a:hover {
 
 header {
 	z-index: 1;
+
 	position: fixed;
 	top:    0px;
 	height: 50px;
 	left:   50px;
 	right:  50px;
+	
 	background-color: #1e5d88;
 }
 
@@ -82,15 +84,34 @@ header img {
 }
 
 header ul {
+	text-shadow: 0 0 1px black;
+	height: 50px;
+	text-height: 50px;
+	text-align: baseline;
+	
+	background-color: #1e5d88;
+	color: #d5d5d5;
+
 	box-shadow: 0 0 1px 1px white;
+	display: inline-block;
+	list-style: none;
+	vertical-align: top;
 }
 
 header ul li {
-	display: none;
+	background-color: #1e5d88;
+
+	opacity: 0;
+	height: 0;
+	-webkit-transition: opacity .25s ease, height .25s ease;
+	-moz-transition:    opacity .25s ease, height .25s ease;
+	-o-transition:      opacity .25s ease, height .25s ease;
+	transition:         opacity .25s ease, height .25s ease;
 }
 
 header ul:hover li {
-	display: block;
+	opacity: 1;
+	height: 50px;
 }
 
 header h1 {
