@@ -52,7 +52,7 @@ body {
 	font-size: 1em;
 	line-height: 1.5;
 	color: #6d6d6d;
-	background: #e7e7e7 url(../images/carbon.jpg) 0 0 repeat;
+	background: #23292e;
 }
 
 a {
@@ -71,9 +71,14 @@ header {
 	z-index: 1;
 	position: fixed;
 	top:    0px;
+	height: 100px;
 	left:   50px;
 	right:  50px;
 	background-color: #1e5d88;
+}
+
+header img {
+	height: 100px;
 }
 
 header h1 {
@@ -335,7 +340,8 @@ footer {
 }
 
 footer img {
-	width: 45%;
+	margin: 4%;
+	width:  40%;
 }
 
 footer a {
@@ -369,7 +375,7 @@ footer a:hover {
 
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
-	header {
+	/*header {
 		padding-top: 10px;
 		padding-bottom: 10px;
 	}
@@ -382,7 +388,7 @@ footer a:hover {
 	.inner {
 		width: 94%;
 		margin: 0 auto;
-	}
+	}*/
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
