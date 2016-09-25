@@ -83,8 +83,8 @@ header img {
 	height: 100px;
 }
 
+/* Drop down */
 header ul {
-	text-shadow: 0 0 1px black;
 	height: 50px;
 	text-height: 50px;
 	text-align: baseline;
@@ -92,27 +92,62 @@ header ul {
 	background-color: #1e5d88;
 	color: #d5d5d5;
 
-	box-shadow: 0 0 1px 1px white;
 	display: inline-block;
-	list-style: none;
 	vertical-align: top;
 }
 
-header ul li {
-	background-color: #1e5d88;
+header a, header a:hover {
+	padding: 0 5px;
+	text-shadow: 0 0 1px black;
+	color: #d5d5d5;
+	height: 50px;
+	line-height: 50px;
+}
 
+header ul>a {
+	background-color: #1e5d88;
+	height: 50px;
+	display: block;
+}
+
+header ul>a:hover {
+	box-shadow: 0 0 2px 2px #1e5d88 inset;
+	background-color: #184a6c;
+	color: #d5d5d5;
+}
+
+header ul>li {
+	list-style: none;
+	box-shadow: 0 0 2px 2px #1e5d88 inset;
+	background-color: #1e5d88;
+	padding: 0 5px;
+
+	visibility: hidden;
 	opacity: 0;
 	height: 0;
-	-webkit-transition: opacity .25s ease, height .25s ease;
-	-moz-transition:    opacity .25s ease, height .25s ease;
-	-o-transition:      opacity .25s ease, height .25s ease;
-	transition:         opacity .25s ease, height .25s ease;
+	line-height: 0px;
+	background-color: #1e5d88;
+	-webkit-transition: opacity .5s ease, background-color 1s ease, height .5s ease, line-height .5s ease;
+	-moz-transition:    opacity .5s ease, background-color 1s ease, height .5s ease, line-height .5s ease;
+	-o-transition:      opacity .5s ease, background-color 1s ease, height .5s ease, line-height .5s ease;
+	transition:         opacity .5s ease, background-color 1s ease, height .5s ease, line-height .5s ease;
 }
 
-header ul:hover li {
+header li:hover {
+	background-color: #184a6c;
+}
+
+header ul:hover>li {
+	visibility: visible;
 	opacity: 1;
 	height: 50px;
+	line-height: 50px;
 }
+
+header ul>li:last-child {
+	border-radius: 0 0 10px 10px;
+}
+/* End drop down */
 
 header h1 {
 	color: #334d5c;
@@ -144,6 +179,12 @@ header h2 {
 	padding: 1cm;
 	box-shadow: 0 0 100px 0 rgba(255,255,255,0.5);
 	background-color: #d5d5d5;
+}
+
+.inner>img:first-of-type {
+	max-width: 500px !important;
+	margin: auto;
+	display: block;
 }
 
 #container .inner img {
