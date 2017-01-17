@@ -112,6 +112,8 @@ td a{
 }
 
 #disclaimer{
+  position:absolute;
+  z-index: 2;
   float:right;
 }
 
