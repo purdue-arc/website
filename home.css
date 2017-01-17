@@ -114,6 +114,7 @@ td a{
 #disclaimer{
   position:absolute;
   z-index: 2;
+  font-family: Oswald;
   float:right;
 }
 
