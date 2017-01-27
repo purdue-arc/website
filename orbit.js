@@ -115,7 +115,7 @@ function generateUniverse(galaxies) {
   };
   //animations
   function animation() {
-    scene.rotation.y -= .00001;
+    scene.rotation.y -= .000000000001;
   };
 
   render();
