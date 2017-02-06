@@ -115,11 +115,10 @@ function generateUniverse(galaxies) {
   };
   //animations
   function animation() {
-<<<<<<< Updated upstream
-    scene.rotation.y -= .01;
-=======
+
+
     scene.rotation.y -= .009;
->>>>>>> Stashed changes
+
   };
 
   render();
