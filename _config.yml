@@ -3,8 +3,8 @@ title: Purdue AUVSI
 email: your-sheridak@purdue.edu
 url: https://pauvsi.github.io
 description: "Purdue Student Chapter of AUVSI. We work on various robotics projects with high levels of autonomy."
-keywords: "purdue, auvsi, robotics, computer vision, machine learning, state estimation"
-skills: "Robotics"
+keywords: "purdue, auvsi, robotics, computer vision, machine learning, state estimation, autonomy"
+skills: "Autonomous Systems"
 meta_author: AUVSI, Purdue
 
 # Google webmaster tools
@@ -42,7 +42,7 @@ social:
   - title: twitter
     url: 
   - title: facebook
-    url:
+    url: https://www.facebook.com/PurdueAUVSI/
   - title: stack-overflow
     url: 
   - title: bitbucket
