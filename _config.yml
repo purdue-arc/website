@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Purdue AUVSI
+email: your-sheridak@purdue.edu
+url: https://pauvsi.github.io
+description: "Purdue Student Chapter of AUVSI. We work on various robotics projects with high levels of autonomy."
+keywords: "purdue, auvsi, robotics, computer vision, machine learning, state estimation"
+skills: "Robotics"
+meta_author: AUVSI, Purdue
 
 # Google webmaster tools
 google_verify:
@@ -56,7 +56,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Purdue Student Chapter of Association for Unmanned Vehicle Systems International'
 
 # Build settings
 markdown: kramdown
