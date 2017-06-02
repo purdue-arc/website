@@ -21,7 +21,7 @@ $message = $_POST['message'];
 
 
 // Create the email and send the message
-$to = 'sheridak@purdue.edu lee2141@purdue.edu'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
+$to = 'sheridak@purdue.edu'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
 $email_subject = "PAUVSI Contact Form:  $name";
 $email_body = "You have received a new message from your website contact form.\n\n"."Here are the details:\n\nName: $name\n\nEmail: $email_address\n\nPhone: $phone\n\nMessage:\n$message";
 $headers = "From: noreply@pauvsi.github.io\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.
