@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2017-09-01
-img: futureProjects.png
+img: futureProjects.jpg
 alt: image-alt
 project-date: Future
 client: Start Bootstrap
