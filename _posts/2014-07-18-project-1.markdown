@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2015-11-1
 img: quadPic.png
 alt: image-alt
 project-date: Nov. 2015 - Present
