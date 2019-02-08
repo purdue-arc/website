@@ -1,32 +1,17 @@
-Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
-=========================
+# Skinny Bones Jekyll Starter
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: July 2014
-client: The Client
-category: Web Development
-description: The description of the project
+I'm currently using a variation of it on my personal website [Made Mistakes](http://mademistakes.com) with some modifications. To learn more about how to use the theme and install it check out the [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (*work in progress*).
+
+![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
 
 ---
-```
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
+## Notable Features
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
-
----------
-For more details, read the [documentation](http://jekyllrb.com/)
+* Jekyll 3.x and GitHub Pages compatible.
+* Stylesheet built using Sass.
+* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
+* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
+* And more.

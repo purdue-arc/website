@@ -1,63 +1,64 @@
-# Site settings
-title: Purdue AUVSI
-email: your-sheridak@purdue.edu
-url: https://pauvsi.github.io
-description: "Purdue Student Chapter of AUVSI. We work on various robotics projects with high levels of autonomy."
-keywords: "purdue, auvsi, robotics, computer vision, machine learning, state estimation, autonomy"
-skills: "Autonomous Systems"
-meta_author: AUVSI, Purdue
+# Site wide configuration
 
-# Google webmaster tools
-google_verify:
+title: "Purdue Autonmous Robotics Club"
+description: "This is a description of my awesome site."
+logo: # 120x120 px default image used for Twitter summary card
+teaser: # 400x250 px default teaser image used in image archive grid
+locale: en
+url:
+feed:
+  path: atom.xml
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# Jekyll configuration
 
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
-#contact: disqus
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
 
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 393939 #80B3FF
-  primary-rgb: "22, 22, 22" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+# Site owner
+owner:
+  name:
+  email:
+  twitter:
+  google:
+    ad-client:
+    ad-slot:
+  bio:
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  disqus-shortname:
 
-# Footer settings
-footer:
-  copyright: Purdue AUVSI
-  location: Location
-  social: Around the Web
-  credits: Credits
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  #- title: twitter
-   # url: 
-  - title: facebook
-    url: https://www.facebook.com/PurdueAUVSI/
-  #- title: stack-overflow
-   # url: 
-  #- title: bitbucket
-   # url: 
-  - title: github
-    url: http://github.com/pauvsi
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 320 North St.
-  - line: West Lafayette, IN 47906
-
-# Credits content
-credits: 'Purdue Student Chapter of Association for Unmanned Vehicle Systems International'
-
-# Build settings
-markdown: kramdown
-permalink: pretty
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
