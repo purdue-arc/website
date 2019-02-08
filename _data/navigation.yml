@@ -1,6 +1,26 @@
 # Site navigation links
 
-- title:
+- title: Home
   url:
+  excerpt:
+  image:
+
+- title: Portfolio
+  url: /portfolio/
+  excerpt: "Current and Past ARC Projects"
+  image:
+
+- title: Media
+  url: /media/
+  excerpt:
+  image:
+
+- title: Members
+  url: /members/
+  excerpt:
+  image:
+
+- title: Sponsors
+  url: /sponsors/
   excerpt:
   image:
