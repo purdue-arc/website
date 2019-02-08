@@ -1,0 +1,21 @@
+<article class="tile" itemscope itemtype="http://schema.org/Article">
+  <a class="member-picture">
+  	{% if member.image %}
+      <img src="{{ site.url }}/images/members/{{ member.image }}" alt="{{member.name}}" width="160" itemprop="image">
+    {% else %}
+      <img src="{{ site.url }}/images/bio-photo.jpg" alt="temporary-photo" width="160" itemprop="image">
+    {% endif %}
+  </a>
+  <h2 class="post-title" itemprop="name">
+    {{ member.name }}
+  </h2>
+  <p class="post-excerpt" itemprop="description">
+    {{ if member.position }}
+      {{ member.position }} <br />
+    {{ endif }}
+    {{ member.major }} <br />
+    Class of {{ member.year }} <br />
+    <!-- <b> Name: </b> {{ member.name }} <br /> -->
+  </p>
+</article><!-- /.tile -->
+

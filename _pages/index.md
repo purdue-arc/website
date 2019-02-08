@@ -13,4 +13,4 @@ ARC's members come from a diverse set of backgrounds, but all are passionate abo
 
 ARC welcome new members of any skill level and teaches it's members topics such as state estimation, control algorithms, and machine learning. New members have opportunities for leadership early on and can work on the areas of the project that interest them.
 
-Our workshop is housed in Purdue's co-working space, The Anvil. Check out our portfolio to see our current and past projects and contact us with any questions.
+Our workshop is housed in Purdue's co-working space, The Anvil. Check out our [portfolio]({{site.url}}/portfolio/) to see our current and past projects and [contact us]({{site.url}}/contact/) with any questions.

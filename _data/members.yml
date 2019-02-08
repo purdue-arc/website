@@ -1,0 +1,11 @@
+- name: James Baxter
+  position:
+  image: james_square_160.png
+  major: Mechanical Engineering
+  year: 2022
+
+- name: John Doe
+  position: Testing
+  image:
+  major: Imaginary Engineering
+  year: 2021

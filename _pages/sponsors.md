@@ -2,6 +2,9 @@
 layout: archive
 permalink: /sponsors/
 title: Sponsors
+share: false
 ---
 
-{% include post-grid.html %}
+{% for sponsor in site.data.sponsors %}
+  {% include sponsor-grid.html %}
+{% endfor %}
