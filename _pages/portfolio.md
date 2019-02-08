@@ -1,8 +1,7 @@
 ---
+layout: archive
 permalink: /portfolio/
-theme: default
+title: Portfolio
 ---
 
-<p>
-	This is a test. We should have the blogs go here or something
-</p>
+This is a test. We should have the blogs go here or something

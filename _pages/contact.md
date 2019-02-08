@@ -1,8 +1,7 @@
 ---
+layout: archive
 permalink: /contact/
-theme: default
+title: Contact Us
 ---
 
-<p>
-	This is a test. stick a google form or something here
-</p>
+This is a test. stick a google form or something here

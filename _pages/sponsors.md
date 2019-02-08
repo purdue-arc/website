@@ -1,8 +1,7 @@
 ---
+layout: archive
 permalink: /sponsors/
-theme: media
+title: Sponsors
 ---
 
-<p>
-	This is a test
-</p>
+{% include post-grid.html %}
