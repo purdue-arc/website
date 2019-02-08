@@ -1,4 +1,19 @@
 # Footer navigation links
 
-- title:
+- title: Home
   url:
+
+- title: Portfolio
+  url: /portfolio/
+
+- title: Media
+  url: /media/
+
+- title: Members
+  url: /members/
+
+- title: Sponsors
+  url: /sponsors/
+
+# - title: Terms of Use
+#   url: /terms/
