@@ -1,5 +1,6 @@
 ---
 permalink: /
+theme: default
 ---
 
 <p>

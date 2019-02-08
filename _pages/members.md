@@ -1,5 +1,6 @@
 ---
 permalink: /members/
+theme: media
 ---
 
 <p>

@@ -1,5 +1,6 @@
 ---
 permalink: /sponsors/
+theme: media
 ---
 
 <p>
