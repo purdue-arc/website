@@ -4,6 +4,6 @@ permalink: /news/
 title: News
 ---
 
-{% for posts in site.posts %}
+{% for post in site.posts %}
   {% include post-grid.html %}
 {% endfor %}

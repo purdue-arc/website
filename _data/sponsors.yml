@@ -3,10 +3,10 @@
   image: pesc-logo.png
   url: http://www.purdueesc.org
 
-- name: Company Name
-  tier: Contact Us!
-  image:
-  url: 
+- name: MathWorks
+  tier: 
+  image: mathworks.png
+  url: https://www.mathworks.com
 
 - name: Company Name
   tier: Contact Us!

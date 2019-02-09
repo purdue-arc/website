@@ -1,7 +1,7 @@
 ---
 layout: article
-category: news
-permalinke: /news/test/
+categories: news
+permalink: /news/test/
 title: test
 image:
   feature: profile.png

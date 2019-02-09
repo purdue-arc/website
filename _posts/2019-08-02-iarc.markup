@@ -1,12 +1,12 @@
 ---
 layout: article
-category: projects
-permalinke: /projects/iarc/
+categories: projects
+permalink: /projects/iarc/
 title: IARC
 image:
   feature: quadPic.png
   teaser: quadPic.png
-project-date: Nov. 2015 - Present
+<!-- project-date: Nov. 2015 - Present -->
 ---
 
 IARC description
