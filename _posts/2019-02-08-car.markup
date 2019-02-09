@@ -1,0 +1,12 @@
+---
+layout: article
+categories: portfolio
+permalink: /portfolio/car/
+title: Autonomous RC Car
+image:
+  feature: portfolio/car_feature.png
+  teaser: portfolio/car_teaser.png
+share: false
+---
+
+car description

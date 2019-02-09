@@ -4,8 +4,8 @@ categories: news
 permalink: /news/test/
 title: test
 image:
-  feature: profile.png
-  teaser: profile.png
+  feature: arc_feature.png
+  teaser: arc_teaser.png
 ---
 
 This is a test
