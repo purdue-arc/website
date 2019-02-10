@@ -1,6 +1,6 @@
 - name: Jason King Ching Lo
   position: President
-  image: 
+  image: jason_square_160.png
   major: Aeronautical and Astronautical Engineering
   year: 2019
 
@@ -25,6 +25,18 @@
 - name: James Baxter
   position:
   image: james_square_160.png
+  major: MS Aeospace Engineering
+  year: 2022
+
+- name: Luis Dietsche
+  position:
+  image: luis_square_160.png
+  major: Mechanical Engineering
+  year: 2022
+
+- name: Riley Frady
+  position:
+  image: riley_square_160.png
   major: Mechanical Engineering
   year: 2022
 
