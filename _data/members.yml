@@ -1,18 +1,18 @@
 - name: Jason King Ching Lo
   position: President
-  image: jason_square_160.png
+  image: jason.png
   major: Aeronautical and Astronautical Engineering
   year: 2019
 
 - name: Mitchell Lee
   position: Vice President
-  image: mitchell_square_160.png
+  image: mitchell.png
   major: Cybersecurity
   year: 2019
 
 - name: Will Herman
   position: Secretary
-  image: will_square_160.png
+  image: will.png
   major: Mechanical Engineering
   year: 2019
 
@@ -24,38 +24,38 @@
 
 - name: James Baxter
   position:
-  image: james_square_160.png
-  major: MS Aeospace Engineering
+  image: james.png
+  major: Mechanical Engineering
   year: 2022
 
 - name: Luis Dietsche
   position:
-  image: luis_square_160.png
-  major: Mechanical Engineering
-  year: 2022
+  image: luis.png
+  major: MS Aerospace Engineering
+  year: 2019
 
 - name: Riley Frady
   position:
-  image: riley_square_160.png
+  image: riley.png
   major: Mechanical Engineering
   year: 2022
 
 - name: Pedro Freitas de Araujo
   position:
-  image: pedro_square_160.png
+  image: pedro.png
   major: Aeronautical and Astronautical Engineering
   minor: Computer Science
   year: 2020
 
 - name: Victor Pan
   position:
-  image: victor_square_160.png
+  image: victor.png
   major: Electrical Engineering
   minor: Computer Science
   year: 2020
 
 - name: Kevin Sheridan
   position: 
-  image: kevin_square_160.png
+  image: kevin.png
   major: Aeronautical and Astronautical Engineering
   year: 2019
