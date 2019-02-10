@@ -5,8 +5,8 @@ description: "The official website of Purdue University's Autonomous Robotics Cl
 logo: profile_120_square.png  # 120x120 px default image used for Twitter summary card
 teaser: profile.png           # 400x250 px default teaser image used in image archive grid
 locale: en
-#url: https://www.purduearc.com
-url: http://localhost:4000
+url: https://www.purduearc.com
+#url: http://localhost:4000
 feed:
   path: atom.xml
 
