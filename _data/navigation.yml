@@ -2,25 +2,25 @@
 
 - title: Portfolio
   url: /portfolio/
-  excerpt: "Current and Past ARC Projects"
+  excerpt: 
   image: /arc_teaser.png
 
 - title: News
   url: /news/
   excerpt:
-  image:
+  image: /arc_teaser.png
 
 - title: Members
   url: /members/
   excerpt:
-  image:
+  image: /arc_teaser.png
 
 - title: Sponsors
   url: /sponsors/
   excerpt:
-  image:
+  image: /arc_teaser.png
 
 - title: Contact Us
   url: /contact/
   excerpt:
-  image:
+  image: /arc_teaser.png
