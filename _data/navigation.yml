@@ -3,7 +3,7 @@
 - title: Portfolio
   url: /portfolio/
   excerpt: "Current and Past ARC Projects"
-  image:
+  image: /arc_teaser.png
 
 - title: News
   url: /news/
