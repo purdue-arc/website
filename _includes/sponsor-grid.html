@@ -1,10 +1,10 @@
 <article class="tile" itemscope itemtype="http://schema.org/Article">
   <a class="sponsor-image">
   	{% if sponsor.image %}
-      <a href="{{ sponsor.url }}"/>
+      <a href="{{ sponsor.url }}" class = "post-teaser"/>
       <img src="{{ site.url }}/images/sponsors/{{ sponsor.image }}" alt="{{sponsor.name}}" itemprop="image">
     {% else %}
-      <a href="{{ site.url }}/contact/"/>
+      <a href="{{ site.url }}/contact/" class = "post-teaser"/>
       <img src="{{ site.url }}/images/arc_default.png" alt="temporary-photo" itemprop="image">
     {% endif %}
   </a>

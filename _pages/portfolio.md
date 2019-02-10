@@ -5,5 +5,5 @@ title: Portfolio
 ---
 
 {% for post in site.categories.portfolio %}
-  {% include post-grid.html %}
+  {% include portfolio-grid.html %}
 {% endfor %}
