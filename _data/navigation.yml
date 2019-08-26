@@ -2,11 +2,16 @@
 
 - title: Portfolio
   url: /portfolio/
-  excerpt: 
+  excerpt:
   image: /arc_teaser.png
 
 - title: News
   url: /news/
+  excerpt:
+  image: /arc_teaser.png
+
+- title: Media
+  url: /media/
   excerpt:
   image: /arc_teaser.png
 
