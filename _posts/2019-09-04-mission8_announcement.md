@@ -1,7 +1,7 @@
 ---
 layout: article
 categories: news
-title: Fall 2019 Callout
+title: ARC Competing in IARC Mission 8
 image:
   feature: news/mission8_feature.png
   teaser: news/mission8_teaser.png
