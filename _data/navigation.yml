@@ -15,10 +15,15 @@
   excerpt:
   image: /arc_teaser.png
 
-- title: Members
-  url: /members/
-  excerpt:
-  image: /arc_teaser.png
+# - title: Calendar
+#   url: /calendar/
+#   excerpt:
+#   image: /arc_teaser.png
+
+# - title: Members
+#   url: /members/
+#   excerpt:
+#   image: /arc_teaser.png
 
 - title: Sponsors
   url: /sponsors/
