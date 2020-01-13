@@ -1,61 +1,84 @@
-- name: Jason King Ching Lo
-  position: President
-  image: jason.png
-  major: Aeronautical and Astronautical Engineering
-  year: 2019
-
-- name: Mitchell Lee
-  position: Vice President
-  image: mitchell.png
-  major: Cybersecurity
-  year: 2019
-
-- name: Will Herman
-  position: Secretary
-  image: will.png
-  major: Mechanical Engineering
-  year: 2019
-
-- name: Casimir Duchnowski
-  position: Treasurer
-  image: 
-  major: Industrial Engineering
-  year: 2019
-
+executives:
 - name: James Baxter
-  position:
+  position: President
   image: james.png
   major: Mechanical Engineering
   year: 2022
 
-- name: Luis Dietsche
-  position:
-  image: luis.png
-  major: MS Aerospace Engineering
-  year: 2019
-
-- name: Riley Frady
-  position:
-  image: riley.png
-  major: Mechanical Engineering
-  year: 2022
-
-- name: Pedro Freitas de Araujo
-  position:
-  image: pedro.png
-  major: Aeronautical and Astronautical Engineering
-  minor: Computer Science
-  year: 2020
-
 - name: Victor Pan
-  position:
+  position: Vice President
   image: victor.png
   major: Electrical Engineering
   minor: Computer Science
   year: 2020
 
+- name: Jason King Ching Lo
+  position: Treasurer
+  image: jason.png
+  major: Masters in Aeronautical and Astronautical Engineering
+  year: 2021
+
+current:
+- name: Hugh Bromund
+  position: Software Lead
+  image:
+  major: Computer Science
+  year: 2022
+
+- name: Corey O'Brien
+  position: Mechanical Lead
+  image:
+  major: Aeronautical and Astronautical Engineering (FYE)
+  year: 2023
+
+- name: Peyton Williams
+  position: Mission 9 Project Manager
+  image:
+  major: Computer Science
+  year: 2022
+
+- name: Jeffrey Finian
+  image:
+  major: Mechanical Engineering
+  year: 2022
+
+- name: Lucas Lefebvre
+  image:
+  major: Mechanical Engineering
+  year: 2022
+
+- name: Katya Yegorova
+  image:
+  major: Computer Science
+  year: 2023
+
+past:
+- name: Mitchell Lee
+  image: mitchell.png
+  major: Cybersecurity
+  year: 2019
+
+- name: Will Herman
+  image: will.png
+  major: Mechanical Engineering
+  year: 2019
+
+- name: Casimir Duchnowski
+  image:
+  major: Industrial Engineering
+  year: 2019
+
+- name: Luis Dietsche
+  image: luis.png
+  major: Masters in Aeronautical and Astronautical Engineering
+  year: 2019
+
 - name: Kevin Sheridan
-  position: 
   image: kevin.png
   major: Aeronautical and Astronautical Engineering
   year: 2019
+
+- name: Riley Frady
+  image: riley.png
+  major: Industrial Engineering
+  year: 2022
