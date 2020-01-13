@@ -1,22 +1,22 @@
-- name: Boeing<p></p>
-  tier: Gold Tier
-  image: boeing.png
-  url: https://www.boeing.com
+#- name: Boeing<p></p>
+#  tier: Gold Tier
+#  image: boeing.png
+#  url: https://www.boeing.com
 
-- name: Purdue Engineering Student Council
-  tier: Silver Tier
-  image: pesc-logo.png
-  url: http://www.purdueesc.org
+#- name: Purdue Engineering Student Council
+#  tier: Silver Tier
+#  image: pesc-logo.png
+#  url: http://www.purdueesc.org
 
 - name: MathWorks<p></p>
   tier: Bronze Tier
   image: mathworks.png
   url: https://www.mathworks.com
 
-- name: Company Name
-  tier: Contact Us!
-  image:
-  url: 
+- name: Dassault Systèmes
+  tier: Bronze Tier
+  image: dassault.png
+  url: https://www.3ds.com
 
 - name: Company Name
   tier: Contact Us!
@@ -37,3 +37,13 @@
   tier: Contact Us!
   image:
   url: 
+
+- name: Company Name
+  tier: Contact Us!
+  image:
+  url:
+
+- name: Company Name
+  tier: Contact Us!
+  image:
+  url:
