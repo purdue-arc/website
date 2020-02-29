@@ -3,10 +3,7 @@ layout: archive
 permalink: /members/
 title: Members
 ---
-{% for member in site.data.members.executives %}
-  {% include member-grid.html %}
-{% endfor %}
-{% for member in site.data.members.current %}
+{% for member in site.data.members %}
   {% include member-grid.html %}
 {% endfor %}
 

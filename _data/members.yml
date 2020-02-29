@@ -1,4 +1,3 @@
-executives:
 - name: James Baxter
   position: President
   image: james.png
@@ -18,10 +17,9 @@ executives:
   major: Masters in Aeronautical and Astronautical Engineering
   year: 2021
 
-current:
 - name: Hugh Bromund
   position: Software Lead
-  image:
+  image: hugh.jpg
   major: Computer Science
   year: 2022
 
@@ -36,6 +34,11 @@ current:
   image:
   major: Computer Science
   year: 2022
+
+- name: Pedro Freitas de Araujo
+  image: pedro.png
+  major: Aeronautical and Astronautical Engineering
+  year: 2020
 
 - name: Jeffrey Finian
   image:
@@ -52,33 +55,32 @@ current:
   major: Computer Science
   year: 2023
 
-past:
-- name: Mitchell Lee
-  image: mitchell.png
-  major: Cybersecurity
-  year: 2019
-
-- name: Will Herman
-  image: will.png
-  major: Mechanical Engineering
-  year: 2019
-
-- name: Casimir Duchnowski
-  image:
-  major: Industrial Engineering
-  year: 2019
-
-- name: Luis Dietsche
-  image: luis.png
-  major: Masters in Aeronautical and Astronautical Engineering
-  year: 2019
-
-- name: Kevin Sheridan
-  image: kevin.png
-  major: Aeronautical and Astronautical Engineering
-  year: 2019
-
-- name: Riley Frady
-  image: riley.png
-  major: Industrial Engineering
-  year: 2022
+# - name: Mitchell Lee
+#   image: mitchell.png
+#   major: Cybersecurity
+#   year: 2019
+#
+# - name: Will Herman
+#   image: will.png
+#   major: Mechanical Engineering
+#   year: 2019
+#
+# - name: Casimir Duchnowski
+#   image:
+#   major: Industrial Engineering
+#   year: 2019
+#
+# - name: Luis Dietsche
+#   image: luis.png
+#   major: Masters in Aeronautical and Astronautical Engineering
+#   year: 2019
+#
+# - name: Kevin Sheridan
+#   image: kevin.png
+#   major: Aeronautical and Astronautical Engineering
+#   year: 2019
+#
+# - name: Riley Frady
+#   image: riley.png
+#   major: Industrial Engineering
+#   year: 2022
