@@ -3,8 +3,8 @@
 - title: Home
   url: /
 
-- title: Portfolio
-  url: /portfolio/
+- title: Projects
+  url: /projects/
 
 - title: News
   url: /news/
@@ -15,14 +15,14 @@
 - title: Calendar
   url: /calendar/
 
-- title: Members
-  url: /members/
-
 - title: Sponsors
   url: /sponsors/
 
 - title: Contact Us
   url: /contact/
+
+- title: Members
+  url: /members/
 
 - title: GitHub
   url: https://www.github.com/purdue-arc

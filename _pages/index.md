@@ -11,4 +11,4 @@ The Autonomous Robotics Club of Purdue was created to grow the skills and abilit
 
 Through ARC, members can meet like-minded individuals, solve real world robotics problems, gain experience with industry-standard tools, and build their career portfolios. We welcome new members of any skill level and provide an environemtn for members to learn about topics such as state estimation, control algorithms, and machine learning. New members have opportunities for leadership early on and can gain in depth experience working on projects that interest them. ARC projects typically include a mix of hardware and software design.
 
-The club meeting times vary and are posted on our [calendar]({{site.url}}/calendar/). Check out our [portfolio]({{site.url}}/portfolio/) to see our current and past projects, and feel free to [contact us]({{site.url}}/contact/) with any questions.
+The club meeting times vary and are posted on our [calendar]({{site.url}}/calendar/). Check out our [projects]({{site.url}}/projects/) to see what we've been working on, and feel free to [contact us]({{site.url}}/contact/) with any questions.

@@ -1,36 +1,22 @@
 # Site navigation links
 
-- title: Portfolio
-  url: /portfolio/
-  excerpt:
-  image: /arc_teaser.png
+- title: Projects
+  url: /projects/
 
 - title: News
   url: /news/
-  excerpt:
-  image: /arc_teaser.png
 
 - title: Media
   url: /media/
-  excerpt:
-  image: /arc_teaser.png
 
-# - title: Calendar
-#   url: /calendar/
-#   excerpt:
-#   image: /arc_teaser.png
+- title: Calendar
+  url: /calendar/
 
 # - title: Members
 #   url: /members/
-#   excerpt:
-#   image: /arc_teaser.png
 
 - title: Sponsors
   url: /sponsors/
-  excerpt:
-  image: /arc_teaser.png
 
 - title: Contact Us
   url: /contact/
-  excerpt:
-  image: /arc_teaser.png
