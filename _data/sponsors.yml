@@ -28,22 +28,7 @@
   image: mynt-ai.png
   url: https://www.myntai.com/
 
-- name: Company Name
-  tier: Contact Us!
-  image:
-  url:
-
-- name: Company Name
-  tier: Contact Us!
-  image:
-  url:
-
-- name: Company Name
-  tier: Contact Us!
-  image:
-  url:
-
-- name: Company Name
-  tier: Contact Us!
-  image:
-  url:
+#- name: Company Name
+#  tier: Contact Us!
+#  image:
+#  url:
