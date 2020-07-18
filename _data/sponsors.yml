@@ -9,22 +9,18 @@
 #  url: http://www.purdueesc.org
 
 - name: Purdue Mechanical Engineering
-  tier: Bronze Tier
   image: purdue-me.png
   url: https://engineering.purdue.edu/ME
 
 - name: MathWorks
-  tier: Bronze Tier
   image: mathworks.png
   url: https://www.mathworks.com
 
 - name: Dassault Systèmes
-  tier: Bronze Tier
   image: dassault.png
   url: https://www.3ds.com
 
 - name: MYNT
-  tier: Bronze Tier
   image: mynt-ai.png
   url: https://www.myntai.com/
 
