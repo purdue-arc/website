@@ -13,6 +13,6 @@ Through ARC, members can meet like-minded individuals, solve real world robotics
 
 The club meeting times vary and are posted on our [calendar]({{site.url}}/calendar/). Check out our [projects]({{site.url}}/projects/) to see what we've been working on, and feel free to [contact us]({{site.url}}/contact/) with any questions.
 
-### Covid-19 Update
+### COVID-19 Update
 
-Purdue ARC is actively monitoring the situation and doing everything in our power to ensure the Fall 2020 semester will be productive, while still following [Purdue guidlines](https://protect.purdue.edu/). More information will be released on how the club intends to operate in our upcoming [virtual callout]({{site.url}}/news/f20_callout).
+Purdue ARC is actively monitoring the situation and doing everything to ensure the Fall 2020 semester will be productive, while still following [Purdue guidlines](https://protect.purdue.edu/). More information will be released on how the club intends to operate in the upcoming [virtual callout]({{site.url}}/news/f20_callout).
