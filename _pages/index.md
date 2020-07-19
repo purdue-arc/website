@@ -15,4 +15,4 @@ The club meeting times vary and are posted on our [calendar]({{site.url}}/calend
 
 ### COVID-19 Update
 
-Purdue ARC is actively monitoring the situation and doing everything to ensure the Fall 2020 semester will be productive, while still following [Purdue guidlines](https://protect.purdue.edu/). More information will be released on how the club intends to operate in the upcoming [virtual callout]({{site.url}}/news/f20_callout).
+Purdue ARC is commited to keeping our members safe for the Fall 2020 semester. The leadership team is actively monitoring the situation and is working to ensure the Fall 2020 semester will be safe and productive. More information will be released on how the club intends to operate in the upcoming [virtual callout]({{site.url}}/news/f20_callout).
