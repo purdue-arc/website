@@ -5,13 +5,13 @@
   year: 2022
 
 - name: Peyton Williams
-  position: Vice President
+  position: Treasurer
   image:
   major: Computer Science
   year: 2022
 
 - name: Harrison McCarty
-  position: Treasurer
+  position: Vice President
   image:
   major: Computer Science
   year: 2023
@@ -51,11 +51,16 @@
   image: 
   major: Computer Science
   year: 2023
+  
+- name: Andrew Masek
+  image:
+  major: Computer Science
+  year: 2023
 
 - name: Adrian Teigen
   image: 
   major: Computer Science
-  year: 2023
+  year: 2021
 
 # It might be nice to have a past members section in the future. Not sure. I'm gonna leave this here for that reason
 # - name: Victor Pan
