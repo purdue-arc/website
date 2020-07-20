@@ -12,8 +12,8 @@
 - title: Calendar
   url: /calendar/
 
-- title: Members
-  url: /members/
+# - title: Members
+#   url: /members/
 
 - title: Sponsors
   url: /sponsors/

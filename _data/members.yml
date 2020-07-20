@@ -1,21 +1,21 @@
-- current: 
+current: 
   - name: James Baxter
     position: President
     image: james.png
     major: Mechanical Engineering
     year: 2022
 
+  - name: Harrison McCarty
+    position: Vice President
+    image: harrison.jpg
+    major: Computer Science
+    year: 2023
+
   - name: Peyton Williams
     position: Treasurer
     image:
     major: Computer Science
     year: 2022
-
-  - name: Harrison McCarty
-    position: Vice President
-    image:
-    major: Computer Science
-    year: 2023
 
   - name: Katya Yegorova
     position: Secretary
@@ -63,7 +63,7 @@
     major: Computer Science
     year: 2021
 
-- past:
+past:
   - name: Victor Pan
     position: Vice President
     image: victor.png
@@ -101,7 +101,7 @@
     major: Aeronautical and Astronautical Engineering
     year: 2019
 
-    - name: Riley Frady
+  - name: Riley Frady
     image: riley.png
     major: Industrial Engineering
     year: 2022
