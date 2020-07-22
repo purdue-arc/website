@@ -3,12 +3,13 @@ layout: archive
 permalink: /members/
 title: Members
 ---
-{% for member in site.data.members %}
+
+{% for member in site.data.members.current %}
   {% include member-grid.html %}
 {% endfor %}
 
-<!-- <div>
+<!-- # Past Members
+
 {% for member in site.data.members.past %}
   {% include member-grid.html %}
-{% endfor %}
-</div> -->
+{% endfor %} -->
