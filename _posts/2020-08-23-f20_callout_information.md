@@ -24,5 +24,8 @@ Passcode: robots
 #### Option 2
 We also have an _asynchronous_ option, where you can view the callout on YouTube on your own time. This should work well for students who cannot tune into our live callout due to conflicts or differences in time zone. This format doesn't allow for live Q&A, but viewers can ask questions by commenting on the video, [emailing the club](mailto:autonomy@purdue.edu), or submitting questions on the [Contact Us page]({{site.url}}/contact/).
 
+**Callout Video Information**  
+YouTube link: https://youtu.be/BWQr29QkcIA
+
 #### Form for New and Returning Members
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfKRyB7JBRGvOSUXfo6fRUpzUK3jld2YXLRGHAdqSV4kWwSoQ/viewform?embedded=true" width="720" height="1080" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
