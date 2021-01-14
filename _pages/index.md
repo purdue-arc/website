@@ -15,4 +15,4 @@ The club meeting times vary and are posted on our [calendar]({{site.url}}/calend
 
 ### COVID-19 Update
 
-Purdue ARC is commited to keeping our members safe for the Spring 2021 semester. The leadership team is actively monitoring the situation and is working to ensure the Spring 2021 semester will be safe and productive. For more information, read our latest news post on onboarding for the upcoming semester.
+Purdue ARC is commited to keeping our members safe for the Spring 2021 semester. The leadership team is actively monitoring the situation and is working to ensure the Spring 2021 semester will be safe and productive. For more information, read our latest [news post]({{site.url}}/news/s21_onboarding) on onboarding for the upcoming semester.
