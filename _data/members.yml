@@ -63,6 +63,11 @@ current:
     major: Computer Science
     year: 2021
 
+  - name: Raghava Uppuluri
+    image: raghava.jpg 
+    major: Computer Engineering
+    year: 2024
+
 past:
   - name: Victor Pan
     image: victor.png
