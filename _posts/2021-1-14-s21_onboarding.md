@@ -20,4 +20,4 @@ If you have additional questions before the meetings / can't attend the meetings
 ## For Returning Members
 Welcome back! For returning members we ask that you fill out the Spring 2021 [sign up form](https://forms.gle/hzTQqEA9JgrR28oY6). This allows us to track attendance and see who's returning from the previous semester.
 
-The first two general meetings will be optional but recommended as they geared more towards new members. Beyond that, stay updated within the Slack and communicate with your project teams to schedule meetings. We're glad to have you back!
+The first two general meetings will be optional but recommended as they are geared more towards new members. Beyond that, stay updated within the Slack and communicate with your project teams to schedule meetings. We're glad to have you back!
