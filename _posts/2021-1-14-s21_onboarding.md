@@ -13,7 +13,7 @@ First off, welcome to Purdue's Autonomous Robotics Club! We are excited to have 
 
 The semester is going to start with two meetings dedicated to onboarding new members. Attending <u>at least one</u> of these meetings is crucial for getting involved and will provide lots of information about how the club operates. The dates for these meetings are 1/20 and 1/27 at 7:00pm EST. They will take place over Zoom, which you can join using the link provided on our [calendar]({{site.url}}/calendar/).
 
-Beyond attending these onboarding meetings, we also ask that you fill out our [sign up form](https://forms.gle/hzTQqEA9JgrR28oY6) and join the [ARC Slack](purduearc.slack.com). The form is how we will add you to our mailing list and the Slack is where the team handles a majority of communication.
+Beyond attending these onboarding meetings, we also ask that you fill out our [sign up form](https://forms.gle/hzTQqEA9JgrR28oY6) and join the [ARC Slack](https://purduearc.slack.com). The form is how we will add you to our mailing list and the Slack is where the team handles a majority of communication.
 
 If you have additional questions before the meetings / can't attend the meetings, be sure to contact us through Slack or via [email](mailto:autonomy@purdue.edu).
 
