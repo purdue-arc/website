@@ -7,7 +7,6 @@ image:
   feature: portfolio/rl_feature.png
   teaser: portfolio/rl_teaser.png
 author: hmccarty
-modified: 2020-01-14
 ---
 Starting the Fall 2020 semester, ARC has begun building a system of autonomous, scaled vehicles to play head-to-head in a game of soccer. The team took inspiration from the game, Rocket League, in which vehicles play soccer in 3v3 matches.
 
