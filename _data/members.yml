@@ -11,11 +11,6 @@ current:
     major: Computer Science
     year: 2023
 
-  - name: Jeffrey Finian
-    image:
-    major: Mechanical Engineering
-    year: 2022
-
   - name: Daniel Gerblick
     image: 
     major: Computer Science
@@ -27,17 +22,22 @@ current:
     year: 2021
 
 past:
-  - name: Peyton Williams
-    position: Treasurer
-    image:
-    major: Computer Science
-    year: 2022
-
   - name: Katya Yegorova
     position: Secretary
     image:
     major: Computer Science
     year: 2023
+
+  - name: Jeffrey Finian
+    image:
+    major: Mechanical Engineering
+    year: 2022
+
+  - name: Peyton Williams
+    position: Treasurer
+    image:
+    major: Computer Science
+    year: 2022
 
   - name: Jason King Ching Lo
     image: jason.png

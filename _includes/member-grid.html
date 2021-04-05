@@ -1,11 +1,11 @@
 <div class="tile">
   <div>
     {% if member.image %}
-    <img src="{{ site.url }}/images/members/{{ member.image }}" alt="{{member.name}}" itemprop="image"
-      style="width:160px;height:160px;">
+    <img class="member-image" src="{{ site.url }}/images/members/{{ member.image }}" alt="{{member.name}}"
+      itemprop="image">
     {% else %}
-    <img src="{{ site.url }}/images/members/bio-generic.png" alt="temporary-photo" itemprop="image"
-      style="width:160px;height:160px;">
+    <img class="member-image" src="{{ site.url }}/images/members/bio-generic.png" alt="temporary-photo"
+      itemprop="image">
     {% endif %}
   </div>
   <p itemprop="description">

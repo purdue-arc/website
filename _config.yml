@@ -23,7 +23,6 @@ gems:
   - jekyll-gist
   - jekyll-feed
 
-
 # Site owner
 owner:
   name: James Baxter

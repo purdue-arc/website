@@ -6,7 +6,7 @@ if [ "$1" == "bash" ]; then
   	-v "$PWD:/srv/jekyll" \
 	-v "jekyll_bundle_cache:/usr/local/bundle" \
   	-p 4000:4000 \
-  	-it jekyll/jekyll:3.8 \
+  	-it jekyll/jekyll:4.0 \
   	bash
 else
 	docker run --rm \
@@ -14,7 +14,7 @@ else
   	-v "$PWD:/srv/jekyll" \
 	-v "jekyll_bundle_cache:/usr/local/bundle" \
   	-p 4000:4000 \
-  	-it jekyll/jekyll:3.8 \
+  	-it jekyll/jekyll:4.0 \
   	jekyll serve \
 	--config _config.yml,_config.docker.yml
 fi
