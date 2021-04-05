@@ -1,15 +1,17 @@
 <div class="tile">
   <div>
-  	{% if member.image %}
-      <img src="{{ site.url }}/images/members/{{ member.image }}" alt="{{member.name}}" itemprop="image">
+    {% if member.image %}
+    <img src="{{ site.url }}/images/members/{{ member.image }}" alt="{{member.name}}" itemprop="image"
+      style="width:160px;height:160px;">
     {% else %}
-      <img src="{{ site.url }}/images/members/bio-generic.png" alt="temporary-photo" itemprop="image">
+    <img src="{{ site.url }}/images/members/bio-generic.png" alt="temporary-photo" itemprop="image"
+      style="width:160px;height:160px;">
     {% endif %}
   </div>
   <p itemprop="description">
     <b> {{ member.name }} </b> <br>
     {% if member.position %}
-      {{ member.position }} <br>
+    {{ member.position }} <br>
     {% endif %}
     {{ member.major }} <br>
     Class of {{ member.year }} <br>
