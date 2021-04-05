@@ -11,6 +11,22 @@ current:
     major: Computer Science
     year: 2023
 
+  - name: Jeffrey Finian
+    image:
+    major: Mechanical Engineering
+    year: 2022
+
+  - name: Daniel Gerblick
+    image: 
+    major: Computer Science
+    year: 2023
+
+  - name: Adrian Teigen
+    image: 
+    major: Computer Science
+    year: 2021
+
+past:
   - name: Peyton Williams
     position: Treasurer
     image:
@@ -38,32 +54,16 @@ current:
     major: Aeronautical and Astronautical Engineering
     year: 2023
 
-  - name: Jeffrey Finian
-    image:
-    major: Mechanical Engineering
-    year: 2022
-
   - name: Lucas Lefebvre
     image:
     major: Mechanical Engineering
     year: 2022
-
-  - name: Daniel Gerblick
-    image: 
-    major: Computer Science
-    year: 2023
 
   - name: Andrew Masek
     image:
     major: Computer Science
     year: 2023
 
-  - name: Adrian Teigen
-    image: 
-    major: Computer Science
-    year: 2021
-
-past:
   - name: Victor Pan
     image: victor.png
     major: Electrical Engineering
