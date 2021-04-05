@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: article
 categories: media
 title: Simulation for IARC Mission 7
 image:

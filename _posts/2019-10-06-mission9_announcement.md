@@ -1,6 +1,6 @@
 ---
 layout: article
-categories: news
+categories: media
 title: Mission 9 replacing Mission 8
 image:
   feature: news/mission9_feature.png

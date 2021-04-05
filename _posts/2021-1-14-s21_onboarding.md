@@ -1,6 +1,6 @@
 ---
 layout: article
-categories: news
+categories: media
 title: Spring 2021 Onboarding
 image:
   teaser: arc_teaser.png

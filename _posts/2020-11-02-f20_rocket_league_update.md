@@ -1,6 +1,6 @@
 ---
 layout: article
-categories: news
+categories: media
 title: Rocket League Project Update
 image:
   feature: news/rl_update_1_feature.png

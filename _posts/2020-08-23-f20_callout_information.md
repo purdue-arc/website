@@ -1,6 +1,6 @@
 ---
 layout: article
-categories: news
+categories: media
 title: Fall 2020 Callout Information
 image:
   teaser: arc_teaser.png

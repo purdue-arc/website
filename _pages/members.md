@@ -16,8 +16,8 @@ title: Members
   {% include member-grid.html %}
 {% endfor %}
 
-<!-- # Past members reverse sorted by year -->
+<!-- # Past members reverse sorted by year
 {% assign past = site.data.members.past | sort: 'year' | reverse %}
 {% for member in past %}
   {% include member-grid.html %}
-{% endfor %}
+{% endfor %} -->

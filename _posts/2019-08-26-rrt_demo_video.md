@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: article
 categories: media
 title: RRT Visualization
 image:

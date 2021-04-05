@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: article
 categories: media
 title: Fall 2020 Callout Video
 image:

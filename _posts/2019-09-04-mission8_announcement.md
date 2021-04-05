@@ -1,6 +1,6 @@
 ---
 layout: article
-categories: news
+categories: media
 title: ARC Competing in IARC Mission 8
 image:
   feature: news/mission8_feature.png
