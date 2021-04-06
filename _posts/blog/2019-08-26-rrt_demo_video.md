@@ -1,9 +1,9 @@
 ---
-layout: media
-categories: media
+layout: article
+categories: blog
 title: RRT Visualization
 image:
-  teaser: media/rrt_demo.png
+  teaser: blog/rrt_demo.png
 ---
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yWHRLkHt8Vg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

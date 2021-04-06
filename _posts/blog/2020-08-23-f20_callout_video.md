@@ -1,9 +1,9 @@
 ---
-layout: media
-categories: media
+layout: article
+categories: blog
 title: Fall 2020 Callout Video
 image:
-  teaser: media/f20_callout.png
+  teaser: blog/f20_callout.png
 ---
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BWQr29QkcIA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

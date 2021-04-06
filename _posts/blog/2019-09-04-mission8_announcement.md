@@ -1,10 +1,10 @@
 ---
 layout: article
-categories: news
+categories: blog
 title: ARC Competing in IARC Mission 8
 image:
-  feature: news/mission8_feature.png
-  teaser: news/mission8_teaser.png
+  feature: blog/mission8_feature.png
+  teaser: blog/mission8_teaser.png
 author: jamesb
 ---
 ARC is beginning work in the fall of 2019 on an autonomous drone system to compete in Mission 8 of the [IARC](http://aerialroboticscompetition.org/).

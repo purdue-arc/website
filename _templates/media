@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: article
 title: {{ title }}
 modified:
 categories: {{ dir }}

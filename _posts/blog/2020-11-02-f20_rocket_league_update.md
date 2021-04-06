@@ -1,10 +1,10 @@
 ---
 layout: article
-categories: news
+categories: blog
 title: Rocket League Project Update
 image:
-  feature: news/rl_update_1_feature.png
-  teaser: news/rl_update_1_teaser.png
+  feature: blog/rl_update_1_feature.png
+  teaser: blog/rl_update_1_teaser.png
 author: hmccarty
 ---
 Purdue ARC made strides today in one of it's latest projects, IRL Rocket League. Through the IRL Rocket League project, Purdue ARC hopes to inspire solutions for autonomous systems through a fast-paced, tournament bracket competition. In the future, students from Purdue and outside universities will compete in developing winning strategies for a game of soccer using fully-autonomous cars.

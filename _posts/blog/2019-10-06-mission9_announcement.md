@@ -1,10 +1,10 @@
 ---
 layout: article
-categories: news
+categories: blog
 title: Mission 9 replacing Mission 8
 image:
-  feature: news/mission9_feature.png
-  teaser: news/mission9_teaser.png
+  feature: blog/mission9_feature.png
+  teaser: blog/mission9_teaser.png
 author: jamesb
 modified: 2019-10-07
 ---
