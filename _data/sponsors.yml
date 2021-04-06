@@ -1,14 +1,15 @@
-#- name: Boeing<p></p>
-#  tier: Gold Tier
-#  image: boeing.png
-#  url: https://www.boeing.com
+- name: Purdue Student Organization Grant Allocation
+  image: soga-logo.png
+  url: https://boilerlink.purdue.edu/organization/studentorganizationgrantallocationboard
 
-#- name: Purdue Engineering Student Council
-#  tier: Silver Tier
-#  image: pesc-logo.png
-#  url: http://www.purdueesc.org
+- name: Purdue Engineering Presidents' Council
+  url: https://engineering.purdue.edu/Engr/Academics/Undergraduate/PEPC
 
-- name: Purdue Mechanical Engineering
+- name: Purdue Engineering Student Council
+  image: pesc-logo.png
+  url: http://www.purdueesc.org
+
+- name: Purdue School of Mechanical Engineering
   image: purdue-me.png
   url: https://engineering.purdue.edu/ME
 
@@ -24,7 +25,5 @@
   image: mynt-ai.png
   url: https://www.myntai.com/
 
-#- name: Company Name
-#  tier: Contact Us!
-#  image:
-#  url:
+- name: Contact Us!
+  # url: {{site.url}}/contact/

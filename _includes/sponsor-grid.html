@@ -1,20 +1,21 @@
-<article class="tile" itemscope itemtype="http://schema.org/Article">
-  <a class="sponsor-image">
-  	{% if sponsor.image %}
-      <a href="{{ sponsor.url }}" class = "post-teaser"/>
-      <img src="{{ site.url }}/images/sponsors/{{ sponsor.image }}" alt="{{sponsor.name}}" itemprop="image">
+<div class="tile">
+  <div>
+    {% if sponsor.url %}
+      <a href="{{ sponsor.url }}">
     {% else %}
-      <a href="{{ site.url }}/contact/" class = "post-teaser"/>
-      <img src="{{ site.url }}/images/arc_default.png" alt="temporary-photo" itemprop="image">
+      <a href="{{ site.url }}/contact/">
     {% endif %}
-  </a>
-  <h2 class="post-title" itemprop="name">
+      {% if sponsor.image %}
+        <img class="sponsor-image" src="{{ site.url }}/images/sponsors/{{ sponsor.image }}" alt="{{sponsor.name}}"
+        itemprop="image">
+      {% else %}
+        <img class="sponsor-image" src="{{ site.url }}/images/arc_default.png" alt="temporary-photo"
+        itemprop="image">
+      {% endif %}
+    </a>
+  </div>
+  <h5 itemprop="name">
     {{ sponsor.name }}
-  </h2>
-  <p class="post-excerpt" itemprop="description">
-    {{ if sponsor.tier }}
-      {{ sponsor.tier }} <br />
-    {{ endif }}
-  </p>
-</article><!-- /.tile -->
+  </h5>
+</div>
 
