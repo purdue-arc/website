@@ -1,11 +1,11 @@
 jamesb:
   name: James Baxter
-  # avatar: members/james.png
-  # web: mailto:baxter26@purdue.edu
-  # bio: some bio stuff here I guess
+  avatar: members/james.png
+  web: mailto:baxter26@purdue.edu
 
 hmccarty:
   name: Harrison McCarty
+  avatar: members/harrison.jpg
   web: mailto:mccarth@purdue.edu
 
 ruppuluri:
