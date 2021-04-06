@@ -3,11 +3,8 @@
 - title: Projects
   url: /projects/
 
-- title: Media
-  url: /media/
-
-- title: Calendar
-  url: /calendar/
+- title: Blog
+  url: /blog/
 
 - title: Members
   url: /members/
@@ -17,3 +14,6 @@
 
 - title: Contact Us
   url: /contact/
+
+- title: Calendar
+  url: /calendar/
