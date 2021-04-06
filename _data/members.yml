@@ -1,4 +1,4 @@
-current: 
+current:
   - name: James Baxter
     position: President
     image: james.png
@@ -12,14 +12,29 @@ current:
     year: 2023
 
   - name: Daniel Gerblick
-    image: 
+    image:
     major: Computer Science
     year: 2023
 
   - name: Adrian Teigen
-    image: 
-    major: Computer Science
+    image:
+    major: Computer Science & Finance
     year: 2021
+
+  - name: Gary Zancanelli
+    image:
+    major: Computer Engineering
+    year: 2023
+
+  - name: AJ Ernandes
+    image: aj.jpg
+    major: First Year Engineering
+    year: 2024
+
+  - name: Meenakshi McNamara
+    image:
+    major: Mathematics & Physics
+    year: 2024
 
 past:
   - name: Katya Yegorova
