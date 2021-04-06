@@ -16,6 +16,14 @@
     @include font-size(16,no);
     color: lighten($text-color,25);
   }
+  .member-image {
+    width: 160px;
+    height: 160px;
+  }
+  .post-image {
+    width: 300px;
+    height: 150px;
+  }
   .post-title {
     @include font-size(18,no);
   }

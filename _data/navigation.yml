@@ -3,20 +3,17 @@
 - title: Projects
   url: /projects/
 
-- title: News
-  url: /news/
+- title: Blog
+  url: /blog/
 
-- title: Media
-  url: /media/
-
-- title: Calendar
-  url: /calendar/
-
-# - title: Members
-#   url: /members/
+- title: Members
+  url: /members/
 
 - title: Sponsors
   url: /sponsors/
 
 - title: Contact Us
   url: /contact/
+
+- title: Calendar
+  url: /calendar/
