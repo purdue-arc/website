@@ -17,7 +17,7 @@ current:
     year: 2023
 
   - name: Adrian Teigen
-    image:
+    image: adrian.jpg
     major: Computer Science & Finance
     year: 2021
 
@@ -31,15 +31,25 @@ current:
     major: First Year Engineering
     year: 2024
 
+  - name: Anoop Patel
+    image: anoop.png
+    major: Mechanical Engineering
+    year: 2022
+
   - name: Meenakshi McNamara
     image:
     major: Mathematics & Physics
     year: 2024
 
   - name: Raghava Uppuluri
-    image: raghava.jpg 
+    image: raghava.jpg
     major: Computer Engineering
     year: 2024
+
+  - name: Justin Lee
+    image: justin.jpg
+    major: Computer Engineering
+    year: 2023
 
 past:
   - name: Katya Yegorova
