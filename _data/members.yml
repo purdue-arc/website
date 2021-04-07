@@ -51,6 +51,21 @@ current:
     major: Computer Engineering
     year: 2023
 
+  - name: Adam He
+    image: adam.jpg
+    major: First Year Engineering
+    year: 2024
+
+  - name: Pranav Parigi
+    image:
+    major: Mechanical Engineering
+    year: 2024
+
+  - name: Reuben Georgi
+    image: reuben.jpg
+    major: Aeronautics and Astronautics
+    year: 2021
+
 past:
   - name: Katya Yegorova
     position: Secretary
