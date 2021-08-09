@@ -1,0 +1,27 @@
+<Section class="section" style="padding:4rem 4rem;"relative id="Members">
+  <div class="grid-section grid-group" style="z-index:2;position:relative;"/>
+    {{ range .Site.Data.members.current }}
+      <div class="grid-col span_1_of_4">
+        <div class="member-hero">
+          {{ with .image }}
+              <div class="member-hero-image">
+                  <img src="/images/members/{{ . }}" />
+              </div>
+          {{ else }}
+              <div class="member-hero-image">
+                  <img src="/images/members/bio-generic.png" />
+              </div>
+          {{ end }}
+          <h2 class="member-heading">{{ .name }}</h2>
+          <p class="member-subheading" itemprop="description">
+            {{ if .position }}
+            {{ .position }} <br>
+            {{ end }}
+            {{ .major }} <br>
+            Class of {{ .year }} <br>
+          </p>
+        </div>
+    </div>
+    {{ end }}
+  </div>
+<Section>

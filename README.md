@@ -1,17 +1,22 @@
-# Skinny Bones Jekyll Starter
+# website
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+## Quick Start
 
-I'm currently using a variation of it on my personal website [Made Mistakes](http://mademistakes.com) with some modifications. To learn more about how to use the theme and install it check out the [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (*work in progress*).
+1. [Install Hugo](https://gohugo.io/getting-started/quick-start/)
+2. Create a new post
+```
+hugo new post/my-first-post.md 
+```
+3. Preview your changes locally 
+```
+hugo server -D 
+```
 
-![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
+## General Info 
 
----
+- Pinning blogs on front page: add `pin: true` in the front matter
 
-## Notable Features
+## Info for more technical contribution 
 
-* Jekyll 3.x and GitHub Pages compatible.
-* Stylesheet built using Sass.
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
+- All HTML/Hugo code for main pages are in `layouts` and sections of the layouts are in `partials`.
+- Edit the SCSS/JS in `themes/novela/assets`

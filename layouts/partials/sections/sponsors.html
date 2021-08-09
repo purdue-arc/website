@@ -1,0 +1,14 @@
+<Section class="section" style="padding:4rem 4rem;" relative id="Sponsors">
+  <div style="max-width: {{ .Page.Params.hero.maxWidthPX }}px;">
+    <h2 class="hero-subheading" style="z-index:2;position:relative;text-align:left;">Sponsors</h2>
+  </div>
+  <div class="grid-row" style="z-index:2;position:relative;"/>
+    {{ range .Site.Data.sponsors }}
+    <div class="grid-column">
+        <a href="{{ .url }}">
+          <img src="/images/sponsors/{{ .image }}" alt="{{ .name }}" itemprop="image"/>
+        </a>
+    </div>
+    {{ end }}
+  </div>
+<Section>

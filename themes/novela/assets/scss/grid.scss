@@ -1,0 +1,70 @@
+/* Float four columns side by side */
+.grid-column {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  float: left;
+  width: 25%;
+  padding: 10px 10px;
+}
+
+/* Remove extra left and right margins, due to padding in columns */
+.grid-row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.grid-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive columns - one column layout (vertical) on small screens */
+@media screen and (max-width: $phablet) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+/*  SECTIONS  */
+.grid-section {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+
+/*  COLUMN SETUP  */
+.grid-col {
+  object-fit: cover;
+	display: flex;
+	float:left;
+	margin: 1% 0 1% 1.6%;
+}
+.grid-col:first-child { margin-left: 0; }
+
+/*  GROUPING  */
+.grid-group:before,
+.grid-group:after { content:""; display:table; }
+.grid-group:after { clear:both;}
+.grid-group { zoom:1; /* For IE 6/7 */ }
+
+/*  GRID OF FOUR  */
+.span_4_of_4 {
+	width: 100%;
+}
+.span_3_of_4 {
+	width: 74.6%;
+}
+.span_2_of_4 {
+	width: 49.2%;
+}
+.span_1_of_4 {
+	width: 23.8%;
+}
+
+/*  GO FULL WIDTH BELOW 480 PIXELS */
+@media only screen and (max-width: 480px) {
+	.col {  margin: 1% 0 1% 0%; }
+	.span_1_of_4, .span_2_of_4, .span_3_of_4, .span_4_of_4 { width: 100%; }
+}
