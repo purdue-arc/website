@@ -10,10 +10,15 @@
                 </div>
             </div>
         </header>
-        {{ with .Page.Params.hero }}
-        <div class="article-hero-image" id="ArticleImage__Hero">
-            <img src="{{ . }}">
-        </div>
+        {{ if and 
+           ( isset .Page.Params "hero_visible" )
+           ( eq .Page.Params.hero_visible true )
+        }}
+            {{ with .Page.Params.hero }}
+            <div class="article-hero-image" id="ArticleImage__Hero">
+                <img src="{{ . }}">
+            </div>
+            {{ end }}
         {{ end }}
     </div>
 </section>

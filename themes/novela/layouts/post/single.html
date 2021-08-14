@@ -4,12 +4,12 @@
 
     {{ partial "article/hero.html" . }}
 
-    {{ partial "article/progress" . }}
+    <!-- TODO: Fix with non-hero posts -->
+    <!-- {{ partial "article/progress" . }} -->
 
     <article  id="articleContent" class="post-content" style="position:relative;">
         {{ .Content }}
     </article>
-
 
     {{ partial "article/next.html" . }}
 </section>

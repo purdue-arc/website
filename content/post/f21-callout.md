@@ -2,6 +2,7 @@
 title: Fall 2021 Callout
 date: 2021-08-14
 hero: "/images/posts/memorialmall.JPG"
+hero-visible: false
 pin: true
 excerpt: Learn about ARC's upcoming callout events, where you get involved in various ongoing projects.
 authors:
