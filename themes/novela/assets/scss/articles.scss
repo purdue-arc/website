@@ -453,7 +453,6 @@
     width: 100%;
     margin-bottom: 100px;
 
-    /*TABLET*/
     @media screen and (max-width: $tablet){
         margin: 0;
       -ms-flex-wrap: wrap;
@@ -471,6 +470,7 @@
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
             justify-content: space-between;
+    display: none;
     width: 100%;
     margin-bottom: 100px;
     -ms-flex-wrap: wrap;
@@ -480,11 +480,20 @@
         margin-top: 75px;
         max-width: 48.3%;
 
-        /*TABLET*/
         @media screen and (max-width: $tablet){
             max-width: 100%;
         }
     }
+}
+
+@media screen and (max-width: $phablet){
+  .post-row {
+    display: none
+  }
+
+  .post-row-alt {
+    display: block
+  }
 }
 
 .article-link{
@@ -553,7 +562,7 @@
     /*PHABLET*/
     @media screen and (max-width: $phablet){
       min-width: 100% !important;
-      margin-bottom: 40px;
+      margin-bottom: 0;
       -webkit-box-shadow: 0px 20px 40px rgba(0,0,0,0.2);
               box-shadow: 0px 20px 40px rgba(0,0,0,0.2);
 
