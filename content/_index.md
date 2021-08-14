@@ -1,6 +1,5 @@
 ---
 hero:
-  heading: Gain real-world experience building robot hardware and software
-  subheading: Join or create a robotics project and build it through end-to-end with a team using industry-standard robotics approaches. 
+  subheading: Gain real-world experience through building robot hardware and software, while solving state-of-the-art robotics problems.
   maxWidthPX: 652
 ---
