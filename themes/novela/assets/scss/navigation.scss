@@ -117,17 +117,8 @@
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
             justify-content: space-between;
-}
 
-@media screen and (max-height: 800px) {
-    .nav-container{
-        padding-top: 0px;
-    }
-}
-
-/*DESKTOP MEDIUM*/
-@media screen and (max-width: 1280px){
-    .nav-container{
+    @media screen and (max-width: 1280px){
         padding-top: 0px;
     }
 }
