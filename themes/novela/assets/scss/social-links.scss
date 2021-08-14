@@ -20,16 +20,12 @@
             flex-direction: row;
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
-            justify-content: space-between;
+            justify-content: space-evenly;
     min-width: 100%;
     position: relative;
     margin-left: 3.2rem;
     text-decoration: none;
     max-width: 16px;
-
-    a{
-        margin-right: 25px;
-    }
 }
 
 .social-icon-container:hover > svg {

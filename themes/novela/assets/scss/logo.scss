@@ -1,20 +1,9 @@
-#logo-desktop{
-    .change-fill{
-        fill: var(--primary);
-    }
-}
-
-#logo-mobile{
-    path{
-        fill: var(--primary);
-    }
+.logo {
+    width: 400px;
 }
 
 @media screen and (max-width: 735px){
-    .Logo__Desktop {
-        display: none;
-    }
-    .Logo__Mobile{
-        display: block;
+    .logo {
+        width: 275px;
     }
 }

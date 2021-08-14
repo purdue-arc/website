@@ -10,7 +10,7 @@
             align-items: center;
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
-            justify-content: space-between;
+            justify-content: space-evenly;
     padding-bottom: 80px;
     color: var(--grey);
 }
@@ -55,7 +55,7 @@
         display: none;
     }
     .footer-text{
-        margin: 120px auto 100px;
+        margin: 50px auto 50px;
     }
 }
 
