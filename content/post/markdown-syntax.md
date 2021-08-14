@@ -1,8 +1,8 @@
 ---
 title: Markdown Syntax Guide
-date: 2019-03-11
+date: 2021-08-14
 hero: "/images/hero-2.jpg"
-pin: true
+pin: false
 excerpt: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
 authors:
   - Hugo Authors
