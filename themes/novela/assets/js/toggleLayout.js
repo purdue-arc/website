@@ -2,11 +2,11 @@ document.getElementById("btnGrid").addEventListener("click", makeGrid);
 document.getElementById("btnRows").addEventListener("click", makeRows);
 window.addEventListener("resize", adjustListAtMobile);
 
-document.getElementById("rows").style.fill = "var(--grey)";
+document.getElementById("tiles").style.fill = "var(--grey)";
 
 let listRemoveWidth = window.matchMedia("(max-width: 735px)");
 let listAddWidth = window.matchMedia("(min-width: 735px)");
-let isList = false;
+let isList = true;
 
 function adjustListAtMobile(){
     if (listRemoveWidth.matches) {
