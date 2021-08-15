@@ -10,7 +10,9 @@
 }
 
 /* Remove extra left and right margins, due to padding in columns */
-.grid-row {margin: 0 -5px;}
+.grid-row {
+  margin: 0 -5px;
+}
 
 /* Clear floats after the columns */
 .grid-row:after {
@@ -29,42 +31,58 @@
 }
 /*  SECTIONS  */
 .grid-section {
-	clear: both;
-	padding: 0px;
-	margin: 0px;
+  clear: both;
+  padding: 0px;
+  margin: 0px;
 }
 
 /*  COLUMN SETUP  */
 .grid-col {
   object-fit: cover;
-	display: flex;
-	float:left;
-	margin: 1% 0 1% 1.6%;
+  display: flex;
+  float: left;
+  margin: 1% 0 1% 1.6%;
 }
-.grid-col:first-child { margin-left: 0; }
+.grid-col:first-child {
+  margin-left: 0;
+}
 
 /*  GROUPING  */
 .grid-group:before,
-.grid-group:after { content:""; display:table; }
-.grid-group:after { clear:both;}
-.grid-group { zoom:1; /* For IE 6/7 */ }
+.grid-group:after {
+  content: "";
+  display: table;
+}
+.grid-group:after {
+  clear: both;
+}
+.grid-group {
+  zoom: 1; /* For IE 6/7 */
+}
 
 /*  GRID OF FOUR  */
 .span_4_of_4 {
-	width: 100%;
+  width: 100%;
 }
 .span_3_of_4 {
-	width: 74.6%;
+  width: 74.6%;
 }
 .span_2_of_4 {
-	width: 49.2%;
+  width: 49.2%;
 }
 .span_1_of_4 {
-	width: 23.8%;
+  width: 23.8%;
 }
 
 /*  GO FULL WIDTH BELOW 480 PIXELS */
 @media only screen and (max-width: 480px) {
-	.col {  margin: 1% 0 1% 0%; }
-	.span_1_of_4, .span_2_of_4, .span_3_of_4, .span_4_of_4 { width: 100%; }
+  .col {
+    margin: 1% 0 1% 0%;
+  }
+  .span_1_of_4,
+  .span_2_of_4,
+  .span_3_of_4,
+  .span_4_of_4 {
+    width: 100%;
+  }
 }

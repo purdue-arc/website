@@ -1,28 +1,28 @@
-.bio-container{
+.bio-container {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   position: relative;
   left: -10px;
 }
 
-.bio-link{
+.bio-link {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 
-  &:hover{
+  &:hover {
     text-decoration: none;
   }
 }
 
-.bio-avatar{
+.bio-avatar {
   display: block;
   position: relative;
   height: 40px;
@@ -54,7 +54,7 @@
   border: 2px solid var(--accent);
 }
 
-.bio-avatar-inner{
+.bio-avatar-inner {
   height: 40px;
   width: 40px;
   border-radius: 50%;
@@ -63,7 +63,7 @@
   overflow: hidden;
 }
 
-.bio-text{
+.bio-text {
   margin-bottom: 0;
   max-width: 430px;
   font-size: 14px;
@@ -71,6 +71,6 @@
   color: var(--grey);
 }
 
-.author-avatar{
+.author-avatar {
   width: 100%;
 }

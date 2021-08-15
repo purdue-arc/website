@@ -1,9 +1,9 @@
 .logo {
-    width: 400px;
+  width: 400px;
 }
 
-@media screen and (max-width: $phablet){
-    .logo {
-        width: 275px;
-    }
+@media screen and (max-width: $phablet) {
+  .logo {
+    width: 275px;
+  }
 }
