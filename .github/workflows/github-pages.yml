@@ -6,7 +6,6 @@ on:
       - master  # Set a branch to deploy
   pull_request:
 
-    jj
 jobs:
   deploy:
     runs-on: ubuntu-20.04
