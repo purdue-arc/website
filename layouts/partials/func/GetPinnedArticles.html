@@ -1,0 +1,23 @@
+{{/*
+  GetPinnedArticles
+  Retrieve article or posts that are pinned
+
+  @author @regisphilibert
+
+  @context Page (.)
+
+  @access public
+
+  @return Collection
+          - Page (.)
+
+  @example - Go Template
+    {{ $articles := partialCached "func/GetPinnedArticles" . "articles" }}
+*/}}
+{{ $articles := slice }}
+{{ with where site.RegularPages "Type" "post" }}
+  {{ with where . "Params.pin" true}}
+    {{ $articles = . }}
+  {{ end }}
+{{ end }}
+{{ return $articles }}

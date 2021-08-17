@@ -1,0 +1,31 @@
+.section {
+  width: 100%;
+  max-width: 1220px;
+  margin: 0 auto;
+  padding: 0 4rem;
+
+  @media screen and (max-width: $desktop) {
+    max-width: 850px;
+  }
+
+  @media screen and (max-width: $phablet) {
+    max-width: 100%;
+    padding: 0 2rem 2rem 2rem;
+  }
+
+  p {
+    @media screen and (max-width: $tablet) {
+      padding: 0 4rem;
+      max-width: 567px;
+    }
+  }
+}
+
+.narrow {
+  p {
+    @media screen and (max-width: $tablet) {
+      padding: 0 2rem;
+      max-width: 527px;
+    }
+  }
+}

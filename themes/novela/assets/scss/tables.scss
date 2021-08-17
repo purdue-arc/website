@@ -1,0 +1,85 @@
+/*************************************TABLE************************************/
+
+table {
+  position: relative;
+  line-height: 1.65;
+  color: var(--grey);
+  font-family: var(--sanserif);
+  -webkit-transition: var(--color-mode-transition);
+  -o-transition: var(--color-mode-transition);
+  transition: var(--color-mode-transition);
+  background: var(--card);
+  margin: 45px auto 85px;
+  width: 100%;
+  max-width: 1004px;
+  border: 1px solid var(--horizontalRule);
+  border-radius: 5px;
+  overflow: hidden;
+  border-collapse: separate;
+
+  @media screen and (max-width: $desktop) {
+    margin: 25px auto 65px;
+  }
+
+  @media screen and (max-width: $tablet) {
+    max-width: 486px;
+  }
+
+  @media screen and (max-width: $phablet) {
+    margin: 15px auto 55px;
+  }
+}
+
+/*************************************TABLE CELL************************************/
+
+td {
+  border-top: 1px solid var(--horizontalRule);
+  border-right: 1px solid var(--horizontalRule);
+  padding: 15px 30px;
+  font-size: 16px;
+  background: var(--card);
+
+  &:last-child {
+    border-right: none;
+  }
+
+  @media screen and (max-width: $desktop) {
+    padding: 14px 20px;
+  }
+
+  @media screen and (max-width: $tablet) {
+    font-size: 14px;
+  }
+}
+
+/*************************************TABLE HEAD************************************/
+
+thead {
+  text-align: left;
+  border-collapse: collapse;
+  position: relative;
+  line-height: 1.756;
+  font-weight: 600;
+  color: var(--primary);
+  font-family: var(--serif);
+  -webkit-transition: var(--color-mode-transition);
+  -o-transition: var(--color-mode-transition);
+  transition: var(--color-mode-transition);
+}
+
+th {
+  border-right: 1px solid var(--horizontalRule);
+  padding: 15px 30px;
+
+  &:last-child {
+    border-right: none;
+  }
+
+  @media screen and (max-width: $desktop) {
+    padding: 14px 20px;
+  }
+
+  @media screen and (max-width: $tablet) {
+    font-size: 14px;
+  }
+}

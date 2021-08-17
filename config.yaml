@@ -1,0 +1,19 @@
+baseURL: "https://purduearc.com"
+languageCode: "en-us"
+title: "Purdue ARC"
+pygmentsstyle: 'monokai'
+metaDataFormat: yaml
+sectionPagesMenu: "main"
+email: "purdueautonomy@gmail.com"
+
+# Theme settings
+theme: novela
+paginate: 2 
+social:
+  twitter: "https://twitter.com/purduerobotics"
+  github: "https://github.com/purdue-arc"
+  instagram: "https://www.instagram.com/purdue.arc"
+  linkedin: "https://www.linkedin.com/company/purdue-arc"
+  youtube: "https://www.youtube.com/channel/UCXr3FEZwfZ2gQgtgLHQkeBA"
+taxonomies:
+  author: authors
