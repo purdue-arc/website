@@ -29,5 +29,6 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          target_branch: gh-pages
           publish_dir: ./public
           cname: purduearc.com
