@@ -6,6 +6,7 @@ on:
       - master  # Set a branch to deploy
   pull_request:
 
+    jj
 jobs:
   deploy:
     runs-on: ubuntu-20.04
@@ -29,6 +30,6 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          target_branch: gh-pages
+          publish_branch: gh-pages
           publish_dir: ./public
           cname: purduearc.com
