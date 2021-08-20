@@ -19,7 +19,7 @@ The dates and times of these callout events are shown below:
 
   Location: ARMS B061
 
-  Live-stream link: TBD
+  [Live-stream link](https://youtu.be/N37JfZOb-0M)
 - September 1st 6:00-7:00 PM EST
 
   Location: ARMS B061
