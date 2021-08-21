@@ -19,7 +19,7 @@ Current ARC supports three projects:
 - Robot Arm: Exploring complex pick-and-place manipulation through an in-house, robotic arm.
 - Wizard's Chess: A giant, self-playing chess board inspired by Harry Potter universe.
 
-More information about all of these projects can be found on [the wiki](https://wiki.purduearc.com/).
+More information about all of these projects can be found on **[the wiki](https://wiki.purduearc.com/)**.
 
 Each semester, students are encouraged to pitch ideas for new projects that match the interests of the club. Purdue ARC prides itself on being a self-guided exploration of state-of-the-art problems within autonomous robotics.
 
