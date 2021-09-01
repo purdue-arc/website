@@ -9,7 +9,7 @@ authors:
   - Raghava Uppuluri
 ---
 
-Hello! I'm Raghava, the Robot Arm project software lead, along with Sara, who is our hardware lead. 
+Hello! I'm Raghava, the software lead, along with Sara, our hardware lead for the Robot Arm project at ARC. 
 
 If you're reading this, I hope you're interested in being apart of the robot arm project! I'm excited to work with you guys and build an awesome robot arm.
 
