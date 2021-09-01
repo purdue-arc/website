@@ -9,9 +9,9 @@ authors:
   - Raghava Uppuluri
 ---
 
-Hello! I'm Raghava, the Robot Arm software project lead, this fall along with Sara who is our hardware lead. If you're reading this, I hope you're interested in being apart of the robot arm project! I'm excited to work with you guys and build an awesome robot arm.
+Hello! I'm Raghava, the Robot Arm software project lead, this fall along with Sara who is our hardware lead. 
 
-
+If you're reading this, I hope you're interested in being apart of the robot arm project! I'm excited to work with you guys and build an awesome robot arm.
 
 ### Onboarding
 ***So, I'm a new project member, what should I do?***
