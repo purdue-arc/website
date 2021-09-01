@@ -14,13 +14,19 @@ authors:
 
 Following Purdue's COVID-19 protocol, we expect to have in-person callout events this semester. For students uncomfortable meeting in-person, we will host a live-stream session of the event.
 
-The expected dates and times of these callout events are shown below:
-- August TBD
-  Location: TBD
-  Live-stream link: TBD
-- August TBD
-  Location: TBD
-  Live-stream link: TBD
+Any student who plans on attending in-person is required to wear a mask.
+
+The dates and times of these callout events are shown below:
+
+**August 31st**
+- Time: 6:00-7:00 PM EST
+- Location: ARMS B061
+- [Live-stream link](https://youtu.be/N37JfZOb-0M)
+
+**September 1st**
+- Time: 6:00-7:00 PM EST
+- Location: ARMS B061
+- [Live-stream link](https://youtu.be/dzpwlD_nd5A)
 
 Both callout events will contain the same information, so attending both is not required. 
 
