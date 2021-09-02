@@ -3,14 +3,12 @@ title: Fall 2021 Callout
 date: 2021-08-14
 hero: "/images/posts/memorialmall.JPG"
 hero-visible: false
-pin: true
+pin: false
 excerpt: Learn about ARC's upcoming callout events, where you get involved in various ongoing projects.
 authors:
   - Harrison McCarty
 
 ---
-
-*This article currently acts as a placeholder, check back for updates on the dates/times of the callouts.*
 
 Following Purdue's COVID-19 protocol, we expect to have in-person callout events this semester. For students uncomfortable meeting in-person, we will host a live-stream session of the event.
 
