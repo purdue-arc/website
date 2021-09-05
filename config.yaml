@@ -5,6 +5,11 @@ pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 sectionPagesMenu: "main"
 email: "purdueautonomy@gmail.com"
+params:
+  description: Gain real-world experience through building robot hardware and software, while solving state-of-the-art robotics problems.
+  images:
+  - images/logos/arc-logo-abbrev.png
+  title: ARC Home 
 
 # Theme settings
 theme: novela
@@ -16,4 +21,5 @@ social:
   linkedin: "https://www.linkedin.com/company/purdue-arc"
   youtube: "https://www.youtube.com/channel/UCXr3FEZwfZ2gQgtgLHQkeBA"
 taxonomies:
+  series: series
   author: authors
