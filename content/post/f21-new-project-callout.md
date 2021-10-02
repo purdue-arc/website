@@ -1,6 +1,6 @@
 ---
 title: Fall 2021 Callout (Round 2)
-date: 2021-10-02
+date: 2021-10-01
 hero: "/images/posts/memorialmall.JPG"
 hero-visible: false
 pin: true

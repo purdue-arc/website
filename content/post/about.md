@@ -1,6 +1,6 @@
 ---
 title: About Us
-date: 2022-01-01
+date: 2021-10-02
 hero: "/images/logos/arc-logo-abbrev.png"
 hero-visible: false 
 pin: true
