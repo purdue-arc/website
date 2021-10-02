@@ -1,7 +1,7 @@
 ---
 title: Fall 2021 Callout (Round 2)
 date: 2021-10-02
-hero: "/images/logos/arc-logo-abbrev.png"
+hero: "/images/posts/memorialmall.JPG"
 hero-visible: false
 pin: true
 excerpt: Learn about next steps for getting involved with ARC.
