@@ -3,7 +3,7 @@ title: Fall 2021 Onboarding
 date: 2021-08-02
 hero: "/images/logos/arc-logo-abbrev.png"
 hero-visible: false
-pin: true
+pin: false
 excerpt: Learn about next steps for getting involved with ARC.
 authors:
   - Harrison McCarty
