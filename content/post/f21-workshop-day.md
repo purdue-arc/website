@@ -17,7 +17,7 @@ The schedule for workshops will be updated as they are known below:
 |Time | Topic | Presenter |
 | ----------- | ----------- | ----------- |
 | 10:00 am | Opening | Harrison McCarty |
-| 10:05 am | TBD | |
+| 10:05 am | Organization senses: visual fiducial tracking | Daniel Gerblick |
 | 10:30 am | TBD | |
 | 11:00 am | Finding your way: introduction to path planning | Harrison McCarty |
 | 11:30 am | TBD | |
