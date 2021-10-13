@@ -16,11 +16,19 @@ ARC will be hosting a workshop day on the 24th of October at BIDC. This day-long
 The schedule for workshops will be updated as they are known below:
 |Time | Topic | Presenter |
 | ----------- | ----------- | ----------- |
-| 10:00 am | TBD | |
-| 11:00 am | TBD | |
+| 10:00 am | Opening | Harrison McCarty |
+| 10:05 am | TBD | |
+| 10:30 am | TBD | |
+| 11:00 am | Finding your way: introduction to path planning | Harrison McCarty |
+| 11:30 am | TBD | |
 | 12:00 pm | Lunch Break | |
 | 12:30 pm | TBD | |
 | 1:00 pm | TBD | |
-| 2:00 pm | TBD | |
+| 1:30 pm | Sensors | James Baxter |
+| 2:00 pm | Actuators / power electronics | James Baxter |
+| 2:30 pm | Using uncertainty: probabilistic localization | Harrison McCarty |
 | 3:00 pm | TBD | |
+| 3:30 pm | TBD | |
 | 4:00 pm | TBD | |
+| 4:30 pm | TBD | |
+| 4:55 pm | Closing remarks | Harrison McCarty |
