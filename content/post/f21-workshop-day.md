@@ -23,10 +23,10 @@ The schedule for workshops will be updated as they are known below:
 | 10:30 am | Designing for Manufacturing | Sara Swanlund |
 | 11:00 am | Computer-Aided Manufacturing | Sara Swanlund |
 | 12:00 pm | Lunch Break | |
-| 12:30 pm | Training an Image Classifier in 2021 | Vinitha Marupeddi |
-| 1:00 pm | Machine Learning | TBD |
+| 1:00 pm | Training an Image Classifier in 2021 | Vinitha Marupeddi |
+| 1:30 pm | Machine Learning Related Topic (TBD) | Meenakshi McNamara |
 | 2:00 pm | Finding your way: introduction to path planning | Harrison McCarty |
-| 2:30 pm | Actuators / power electronics | James Baxter |
+| 2:30 pm | Making things go: actuators, power electronics, and battery safety | James Baxter |
 | 3:00 pm | Using uncertainty: probabilistic localization | Harrison McCarty |
 | 3:30 pm | Fantastic Sensors and How to Use Them: LiDARs and Depth Cameras | Raghava Uppuluri & James Baxter |
 | 4:30 pm | Visual Fiducial Localization | Daniel Gerblick |
