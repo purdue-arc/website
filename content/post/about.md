@@ -17,9 +17,11 @@ Through ARC, members can meet like-minded individuals, solve real world robotics
 
 Current ARC supports three projects:
 
-- Rocket League: A system of autonomous, scaled vehicles are learning how to play head-to-head in a game of high speed soccer.
-- Robot Arm: Exploring complex pick-and-place manipulation through an in-house, robotic arm.
-- Wizard's Chess: A giant, self-playing chess board inspired by Harry Potter universe.
+- [Rocket League](https://wiki.purduearc.com/wiki/rocket-league/overview): Teaching a system of autonomous, scaled vehicles to play head-to-head in a game of high speed soccer.
+- [Robot Arm](https://wiki.purduearc.com/wiki/robot-arm/start-here): Exploring complex pick-and-place manipulation through 3D-printed, robotic arms.
+- [Wizard's Chess](https://wiki.purduearc.com/wiki/wizards-chess/start-here): Creating a giant, self-playing chess board inspired by the Harry Potter universe.
+- [Piano Hand](https://wiki.purduearc.com/wiki/piano-hand/start-here): Creating a biologically-inspired manipulator capable of playing the piano.
+- Drone Delivery: Developing a UAV platform capable of autonomously delivering small packages.
 
 More information about all of these projects can be found on **[the wiki](https://wiki.purduearc.com/)**.
 

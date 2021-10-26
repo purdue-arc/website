@@ -3,7 +3,7 @@ title: Workshop Day
 date: 2021-10-08
 hero: "/images/posts/memorialmall.JPG"
 hero-visible: false
-pin: true
+pin: false
 excerpt: Expand your skills within the field robotics at workshop day.
 authors:
   - Harrison McCarty
