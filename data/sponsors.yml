@@ -1,19 +1,27 @@
-- name: Purdue Student Organization Grant Allocation
-  image: soga-logo.png
-  url: https://boilerlink.purdue.edu/organization/studentorganizationgrantallocationboard
+#- name: Purdue Student Organization Grant Allocation
+#  image: soga-logo.png
+#  url: https://boilerlink.purdue.edu/organization/studentorganizationgrantallocationboard
 
 - name: Purdue Engineering Presidents' Council
   image: purdue.png
   url: https://engineering.purdue.edu/Engr/Academics/Undergraduate/PEPC
 
-- name: Purdue Engineering Student Council
-  image: pesc.png
-  url: http://www.purdueesc.org
+  #- name: Purdue Engineering Student Council
+  #image: pesc.png
+  #url: http://www.purdueesc.org
 
 - name: Purdue School of Mechanical Engineering
   image: purdue-me.png
   url: https://engineering.purdue.edu/ME
 
-- name: AIMS Lab
-  image: purdue.png
-  url: https://engineering.purdue.edu/AIMS
+- name: MathWorks
+  image: mathworks.png
+  url: https://www.mathworks.com
+
+- name: Dassault Systèmes
+  image: dassault.png
+  url: https://www.3ds.com
+
+  #- name: MYNT
+  #image: mynt-ai.png
+  #url: https://www.myntai.com/
