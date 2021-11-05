@@ -1,6 +1,6 @@
 - name: Purdue Student Organization Grant Allocation
- image: soga-logo.png
- url: https://boilerlink.purdue.edu/organization/studentorganizationgrantallocationboard
+  image: soga-logo.png
+  url: https://boilerlink.purdue.edu/organization/studentorganizationgrantallocationboard
 
 - name: Purdue Engineering Presidents' Council
   image: purdue.png
@@ -17,4 +17,3 @@
 - name: AIMS Lab
   image: purdue.png
   url: https://engineering.purdue.edu/AIMS
-
