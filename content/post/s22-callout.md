@@ -16,12 +16,12 @@ Any student who plans on attending in-person is required to wear a mask.
 
 The dates and times of these callout events are shown below:
 
-**January 19**
+**January 19th (Wednesday)**
 - Time: 6:00-7:00 PM EST
 - Location: ARMS 1109
 - [Live-stream link](https://youtu.be/-C5HPcOx_B0)
 
-**January 20th**
+**January 20th (Thursday)**
 - Time: 6:00-7:00 PM EST
 - Location: ARMS 1109
 - [Live-stream link](https://youtu.be/qGUS2jO9E_g)
