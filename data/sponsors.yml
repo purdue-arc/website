@@ -10,9 +10,13 @@
   #image: pesc.png
   #url: http://www.purdueesc.org
 
-- name: Purdue School of Mechanical Engineering
-  image: purdue-me.png
-  url: https://engineering.purdue.edu/ME
+# - name: Purdue School of Mechanical Engineering
+#   image: purdue-me.png
+#   url: https://engineering.purdue.edu/ME
+
+- name: Northrop Grumman
+  image: northrop-grumman.png
+  url: https://www.northropgrumman.com
 
 - name: MathWorks
   image: mathworks.png
