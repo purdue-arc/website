@@ -3,7 +3,7 @@ title: Spring 2022 Callout
 date: 2022-01-07
 hero: "/images/posts/memorialmall.JPG"
 hero-visible: false
-pin: true
+pin: false
 excerpt: Learn about ARC's upcoming callout events, where you get involved in various ongoing projects.
 authors:
   - Harrison McCarty
